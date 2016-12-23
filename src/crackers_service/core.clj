@@ -8,6 +8,7 @@
 
 (def path "joke-list.csv")
 
+
 (def helpful-text
   "
 <h1>REST interface</h1>
